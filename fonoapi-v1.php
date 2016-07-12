@@ -41,6 +41,44 @@ class fonoApi
 
 	/**
 	 *
+	 * Gets Latest Device Data Object from fonoapi.freshpixl.com
+	 *
+	 * @param  			$brand
+	 * @param  null $limit
+	 *
+	 * @return mixed
+	 * @throws \Exception
+	 */
+
+	public static function getLatest($brand, $limit = -1){
+		$url = self::$_ApiUrl . "getlatest";
+
+		$postData = array(
+			'brand' => trim($brand),
+			'limit' => $limit,
+			'token' => self::$_ApiKey
+			 );
+
+		$result = json_decode(self::sendPostData($url, $postData));
+
+		if (isset($result->status)) {
+			$innerException ="";
+
+			if(self::$debug){
+				$innerException = " | <strong>innerException</strong> : " . $result->innerException;
+			}
+
+			throw new Exception($result->message . $innerException);
+		}else {
+			return $result;
+		}
+	}
+
+
+
+
+	/**
+	 *
 	 * Gets Device Data Object from fonoapi.freshpixl.com
 	 *
 	 * @param      $device
@@ -109,7 +147,7 @@ class fonoApi
 			$result["message"] = "Curl Failed" ;
 			$result["innerException"] = $e->getMessage();
 
-			return json_encode($result);	
+			return json_encode($result);
 		}
 	}
 }

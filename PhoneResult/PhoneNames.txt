@@ -1,0 +1,2824 @@
+1) Samsung Galaxy Express Prime
+2) Samsung Galaxy S7 Active
+3) Samsung Galaxy S7 mini
+4) Samsung Galaxy S7 edge (CDMA)
+5) Samsung Galaxy S7 (CDMA)
+6) Samsung Galaxy S7 edge
+7) Samsung Gear S2 classic 3G
+8) Samsung Galaxy A9 Pro (2016)
+9) Samsung Galaxy Tab E 7.0
+10) Samsung Galaxy Tab E 8.0
+11) Samsung Galaxy J7 (2016)
+12) Samsung Galaxy J5 (2016)
+13) Samsung Galaxy J1 (2016)
+14) Samsung Galaxy S7
+15) Samsung Galaxy A8 (2016)
+16) Samsung Guru Plus 
+17) Samsung Galaxy A3 (2016)
+18) Samsung Galaxy A5 (2016)
+19) Samsung Galaxy J1 mini (2016)
+20) Samsung Galaxy J3
+21) Samsung Galaxy A7 (2016)
+22) Samsung Metro 360
+23) Samsung Gear 2
+24) Samsung Galaxy Gear
+25) Samsung Gear 2 Neo
+26) Samsung Gear Live
+27) Samsung Galaxy View
+28) Samsung Galaxy On7
+29) Samsung Gear S2
+30) Samsung Gear S2 classic
+31) Samsung Galaxy J1 Ace
+32) Samsung Galaxy On5
+33) Samsung Galaxy A9 (2016)
+34) Samsung Gear S2 3G
+35) Samsung Galaxy S6 edge+ Duos
+36) Samsung Galaxy Note5 Duos
+37) Samsung Galaxy A8 Duos
+38) Samsung Galaxy S6 edge+ (CDMA)
+39) Samsung Galaxy Note5 (CDMA)
+40) Samsung Galaxy S4 mini I9195I
+41) Samsung Galaxy S6 edge+
+42) Samsung Galaxy Folder
+43) Samsung Galaxy Tab A & S Pen
+44) Samsung Galaxy Tab S2 8.0
+45) Samsung Galaxy Tab S2 9.7
+46) Samsung Galaxy Note5
+47) Samsung Galaxy V Plus
+48) Samsung Galaxy S6 Duos
+49) Samsung Galaxy J2
+50) Samsung Galaxy Tab E 9.6
+51) Samsung Z3
+52) Samsung Galaxy S6 Plus
+53) Samsung Galaxy A8
+54) Samsung Galaxy J7
+55) Samsung Galaxy J5
+56) Samsung Galaxy S6 edge (CDMA)
+57) Samsung Galaxy S6 (CDMA)
+58) Samsung Galaxy Tab 3 V
+59) Samsung Galaxy A7 Duos
+60) Samsung Galaxy Tab A 9.7
+61) Samsung Galaxy Tab A 8.0
+62) Samsung Xcover 550
+63) Samsung Galaxy S6 active
+64) Samsung Galaxy Tab 3 Lite 7.0 VE
+65) Samsung Galaxy S6 edge
+66) Samsung Galaxy J1 4G
+67) Samsung Galaxy Xcover 3
+68) Samsung Galaxy Tab 4 10.1 (2015)
+69) Samsung Galaxy Tab 4 8.0 (2015)
+70) Samsung Galaxy J1
+71) Samsung Galaxy E5
+72) Samsung Galaxy Grand Max
+73) Samsung Z1
+74) Samsung Galaxy E7
+75) Samsung Galaxy S6
+76) Samsung Galaxy Core LTE G386W
+77) Samsung Galaxy A3 Duos
+78) Samsung Galaxy A5 Duos
+79) Samsung Galaxy Grand Prime Duos TV
+80) Samsung Galaxy S II TV
+81) Samsung Galaxy Grand 3
+82) Samsung Galaxy A7
+83) Samsung Galaxy A3
+84) Samsung Galaxy A5
+85) Samsung Galaxy Note 4 (CDMA)
+86) Samsung Galaxy Note 4 Duos
+87) Samsung Galaxy S5 Plus
+88) Samsung Galaxy V
+89) Samsung Galaxy Core Prime
+90) Samsung Galaxy Grand Prime
+91) Samsung Galaxy Ace Style LTE G357
+92) Samsung Galaxy S Duos 3
+93) Samsung Galaxy Tab Active
+94) Samsung Galaxy Tab Active LTE
+95) Samsung Guru Music 2
+96) Samsung Metro 312
+97) Samsung Galaxy Note Edge
+98) Samsung Gear S
+99) Samsung Galaxy Alpha (S801)
+100) Samsung Galaxy S5 LTE-A G901F
+101) Samsung Galaxy Alpha
+102) Samsung Galaxy S5 mini Duos
+103) Samsung Galaxy Avant
+104) Samsung Galaxy Ace NXT
+105) Samsung Galaxy S5 Neo
+106) Samsung S5611
+107) Samsung Galaxy F
+108) Samsung Galaxy Mega 2
+109) Samsung Galaxy Star 2
+110) Samsung Galaxy Young 2
+111) Samsung Galaxy Ace 4
+112) Samsung Galaxy Ace 4 LTE G313
+113) Samsung Galaxy S5 Sport
+114) Samsung Galaxy S5 LTE-A G906S
+115) Samsung Galaxy Tab S 8.4
+116) Samsung Galaxy Tab S 10.5
+117) Samsung Galaxy Tab S 8.4 LTE
+118) Samsung Galaxy Note 4
+119) Samsung I9301I Galaxy S3 Neo
+120) Samsung Galaxy Core Lite LTE
+121) Samsung Galaxy W
+122) Samsung Z
+123) Samsung Galaxy Star 2 Plus
+124) Samsung Galaxy S5 Active
+125) Samsung Galaxy S5 CDMA
+126) Samsung Galaxy Core II
+127) Samsung Galaxy Beam2
+128) Samsung I9300I Galaxy S3 Neo
+129) Samsung Galaxy Ace Style
+130) Samsung Galaxy S5 Duos
+131) Samsung Galaxy S5 mini
+132) Samsung Galaxy Tab 4 7.0
+133) Samsung Galaxy Tab 4 7.0 3G
+134) Samsung Galaxy Tab 4 8.0
+135) Samsung Galaxy Tab 4 8.0 3G
+136) Samsung Galaxy Tab 4 10.1
+137) Samsung Galaxy Tab 4 10.1 3G
+138) Samsung ATIV SE
+139) Samsung Galaxy Tab 4 7.0 LTE
+140) Samsung Galaxy Tab 4 8.0 LTE
+141) Samsung Galaxy Tab 4 10.1 LTE
+142) Samsung Galaxy S5 (octa-core)
+143) Samsung Galaxy Tab S 10.5 LTE
+144) Samsung Galaxy Fame Lite Duos S6792L
+145) Samsung Galaxy Fame Lite S6790
+146) Samsung Galaxy Tab Pro 12.2
+147) Samsung Galaxy K zoom
+148) Samsung G3812B Galaxy S3 Slim
+149) Samsung I8200 Galaxy S III mini VE
+150) Samsung E1272
+151) Samsung Galaxy Core LTE
+152) Samsung Galaxy Star Trios S5283
+153) Samsung Galaxy Tab Pro 8.4 3G/LTE
+154) Samsung Galaxy Note Pro 12.2
+155) Samsung Galaxy S5
+156) Samsung Galaxy Note 3 Neo Duos
+157) Samsung Galaxy Tab 3 Lite 7.0 3G
+158) Samsung Galaxy Tab 3 Lite 7.0
+159) Samsung Galaxy Note 3 Neo
+160) Samsung Galaxy Grand Neo
+161) Samsung Galaxy Tab Pro 8.4
+162) Samsung Galaxy Note Pro 12.2 LTE
+163) Samsung Galaxy Note Pro 12.2 3G
+164) Samsung Galaxy Tab Pro 12.2 LTE
+165) Samsung Galaxy Tab Pro 12.2 3G
+166) Samsung Galaxy Tab Pro 10.1 LTE
+167) Samsung Galaxy Tab Pro 10.1
+168) Samsung Galaxy Camera 2 GC200
+169) Samsung Galaxy Core Advance
+170) Samsung Galaxy S4 Active LTE-A
+171) Samsung Galaxy J
+172) Samsung Galaxy Win Pro G3812
+173) Samsung Galaxy S Duos 2 S7582
+174) Samsung Galaxy Grand 2
+175) Samsung C3590
+176) Samsung Galaxy Core Plus
+177) Samsung Galaxy Fresh S7390
+178) Samsung I9230 Galaxy Golden
+179) Samsung Galaxy Express 2
+180) Samsung Galaxy Light
+181) Samsung Galaxy Round G910S
+182) Samsung Galaxy Star Pro S7260
+183) Samsung Galaxy Note 10.1 (2014 Edition)
+184) Samsung Galaxy Note 3
+185) Samsung Ch@t 333
+186) Samsung Gravity Q T289
+187) Samsung Galaxy Prevail 2
+188) Samsung Galaxy Tab 2 10.1 CDMA
+189) Samsung E1050
+190) Samsung ATIV S Neo
+191) Samsung I9506 Galaxy S4
+192) Samsung Galaxy Tab 3 10.1 P5220
+193) Samsung Galaxy Tab 3 10.1 P5200
+194) Samsung Galaxy Ace 3
+195) Samsung Galaxy Tab 3 10.1 P5210
+196) Samsung Galaxy Exhibit T599
+197) Samsung Galaxy Pocket plus S5301
+198) Samsung Galaxy Tab 3 8.0
+199) Samsung Galaxy S4 zoom
+200) Samsung I9295 Galaxy S4 Active
+201) Samsung Galaxy Tab 3 7.0 WiFi
+202) Samsung Galaxy Tab 3 7.0
+203) Samsung I9502 Galaxy S4
+204) Samsung Galaxy Core I8260
+205) Samsung Galaxy Mega 6.3 I9200
+206) Samsung Galaxy Mega 5.8 I9150
+207) Samsung Galaxy Trend II Duos S7572
+208) Samsung Galaxy Win I8550
+209) Samsung Galaxy Pocket Neo S5310
+210) Samsung Galaxy S4 CDMA
+211) Samsung I9190 Galaxy S4 mini
+212) Samsung I9505 Galaxy S4
+213) Samsung E1282T
+214) Samsung E1207T
+215) Samsung Galaxy Y Plus S5303
+216) Samsung Galaxy Tab 3 Plus 10.1 P8220
+217) Samsung E2350B
+218) Samsung Manhattan E3300
+219) Samsung E2262
+220) Samsung Galaxy Ace II X S7560M
+221) Samsung Galaxy Star S5280
+222) Samsung Metro E2202
+223) Samsung E1260B
+224) Samsung Rex 90 S5292
+225) Samsung Rex 80 S5222R
+226) Samsung Rex 70 S3802
+227) Samsung Rex 60 C3312R
+228) Samsung Galaxy Young S6310
+229) Samsung Galaxy Fame S6810
+230) Samsung Galaxy Pop SHV-E220
+231) Samsung Galaxy Express I8730
+232) Samsung S7710 Galaxy Xcover 2
+233) Samsung Galaxy Note 8.0 Wi-Fi
+234) Samsung Galaxy Note 8.0
+235) Samsung Ativ Odyssey I930
+236) Samsung I9105 Galaxy S II Plus
+237) Samsung Galaxy Grand I9082
+238) Samsung Galaxy Grand I9080
+239) Samsung Galaxy Note II CDMA
+240) Samsung Galaxy Note LTE 10.1 N8020
+241) Samsung A997 Rugby III
+242) Samsung Galaxy Axiom R830
+243) Samsung I9500 Galaxy S4
+244) Samsung Galaxy Stratosphere II I415
+245) Samsung Galaxy Ace Advance S6800
+246) Samsung Galaxy Discover S730M
+247) Samsung Google Nexus 10 P8110
+248) Samsung Ativ Tab P8510
+249) Samsung Comment 2 R390C
+250) Samsung Star Deluxe Duos S5292
+251) Samsung Galaxy Premier I9260
+252) Samsung I8190 Galaxy S III mini
+253) Samsung Galaxy Music Duos S6012
+254) Samsung Galaxy Music S6010
+255) Samsung Galaxy Rugby Pro I547
+256) Samsung Galaxy Express I437
+257) Samsung I9305 Galaxy S III
+258) Samsung Champ Neo Duos C3262
+259) Samsung Galaxy Victory 4G LTE L300
+260) Samsung Galaxy Pocket Duos S5302
+261) Samsung Galaxy Camera GC100
+262) Samsung Ativ S I8750
+263) Samsung Galaxy Rush M830
+264) Samsung Galaxy Stellar 4G I200
+265) Samsung Galaxy Reverb M950
+266) Samsung Galaxy Note T879
+267) Samsung Ch@t 357
+268) Samsung Galaxy Tab 2 7.0 I705
+269) Samsung E1200 Pusha
+270) Samsung Galaxy S Relay 4G T699
+271) Samsung Array M390
+272) Samsung Galaxy S Lightray 4G R940
+273) Samsung Galaxy S Duos S7562
+274) Samsung Galaxy Pocket 2
+275) Samsung E2252
+276) Samsung Galaxy Chat B5330
+277) Samsung U485 Intensity III
+278) Samsung Galaxy I8250
+279) Samsung Galaxy Note II N7100
+280) Samsung C3780
+281) Samsung Galaxy S III T999
+282) Samsung Galaxy S III I747
+283) Samsung Galaxy S III CDMA
+284) Samsung Galaxy Ace Duos S6802
+285) Samsung Galaxy Appeal I827
+286) Samsung Galaxy Tab 8.9 4G P7320T
+287) Samsung Galaxy Proclaim S720C
+288) Samsung C3782 Evan
+289) Samsung I9500 Fraser
+290) Samsung Omnia M S7530
+291) Samsung Focus 2 I667
+292) Samsung Galaxy Y TV S5367
+293) Samsung Galaxy Tab 2 7.0 P3110
+294) Samsung Galaxy Note 10.1 N8010
+295) Samsung Galaxy Tab 2 10.1 P5110
+296) Samsung P6810 Galaxy Tab 7.7
+297) Samsung P6210 Galaxy Tab 7.0 Plus
+298) Samsung Galaxy Ace S5830I
+299) Samsung W999
+300) Samsung U380 Brightside
+301) Samsung C3752
+302) Samsung Galaxy Player 70 Plus
+303) Samsung Galaxy Pocket S5300
+304) Samsung Ch@t 220
+305) Samsung Galaxy Note 10.1 N8000
+306) Samsung Galaxy Tab 2 10.1 P5100
+307) Samsung I8530 Galaxy Beam
+308) Samsung Rugby Smart I847
+309) Samsung Galaxy Ace 2 I8160
+310) Samsung Galaxy Ace Duos I589
+311) Samsung Galaxy Pop Plus S5570i
+312) Samsung Galaxy Tab 2 7.0 P3100
+313) Samsung I9070 Galaxy S Advance
+314) Samsung Galaxy S II X T989D
+315) Samsung Star 3 s5220
+316) Samsung Star 3 Duos S5222
+317) Samsung Galaxy Nexus I9250M
+318) Samsung Galaxy Attain 4G
+319) Samsung Galaxy S Blaze 4G T769
+320) Samsung Galaxy Tab 7.7 LTE I815
+321) Samsung Exhilarate i577
+322) Samsung Galaxy S II Skyrocket HD I757
+323) Samsung Galaxy Nexus LTE L700
+324) Samsung M370
+325) Samsung C3312 Duos
+326) Samsung Galaxy M Style M340S
+327) Samsung Galaxy Ace Plus S7500
+328) Samsung Ch@t 322 Wi-Fi
+329) Samsung I929 Galaxy S II Duos
+330) Samsung Galaxy Y Duos S6102
+331) Samsung E2600
+332) Samsung Galaxy S II LTE i727R
+333) Samsung Galaxy Note I717
+334) Samsung Galaxy Y Pro Duos B5512
+335) Samsung R680 Repp
+336) Samsung I110 Illusion
+337) Samsung E1232B
+338) Samsung E1230
+339) Samsung I9100G Galaxy S II
+340) Samsung Galaxy S II Skyrocket i727
+341) Samsung Galaxy Nexus i515
+342) Samsung R730 Transfix
+343) Samsung Convoy 2
+344) Samsung Exhibit II 4G T679
+345) Samsung E1195
+346) Samsung C3350
+347) Samsung M930 Transform Ultra
+348) Samsung R720 Admire
+349) Samsung I405 Stratosphere
+350) Samsung DoubleTime I857
+351) Samsung I9300 Galaxy S III
+352) Samsung Galaxy Nexus I9250
+353) Samsung C3520
+354) Samsung C3330 Champ 2
+355) Samsung P6200 Galaxy Tab 7.0 Plus
+356) Samsung Omnia W I8350
+357) Samsung Galaxy S II HD LTE
+358) Samsung S5610
+359) Samsung Focus Flash I677
+360) Samsung Focus S I937
+361) Samsung P6800 Galaxy Tab 7.7
+362) Samsung Galaxy Note N7000
+363) Samsung Galaxy S II I777
+364) Samsung Galaxy S II T989
+365) Samsung Wave Y S5380
+366) Samsung S8600 Wave 3
+367) Samsung Galaxy Tab 8.9 LTE I957
+368) Samsung Galaxy S II LTE I9210
+369) Samsung Gravity TXT T379
+370) Samsung Galaxy Y S5360
+371) Samsung Galaxy Y Pro B5510
+372) Samsung Galaxy M Pro B7800
+373) Samsung Galaxy W I8150
+374) Samsung S3770
+375) Samsung Ch@t 527
+376) Samsung C3560
+377) Samsung S5690 Galaxy Xcover
+378) Samsung C3750
+379) Samsung i927 Captivate Glide
+380) Samsung Galaxy Tab 10.1 LTE I905
+381) Samsung Galaxy S II 4G I9100M
+382) Samsung R640 Character
+383) Samsung C414
+384) Samsung Dart T499
+385) Samsung Wave M S7250
+386) Samsung R380 Freeform III
+387) Samsung E1190
+388) Samsung E3213 Hero
+389) Samsung Conquer 4G
+390) Samsung Ch@t 222
+391) Samsung R260 Chrono
+392) Samsung Trender
+393) Samsung DuosTV I6712
+394) Samsung Gravity SMART
+395) Samsung Exhibit 4G
+396) Samsung I9103 Galaxy R
+397) Samsung Galaxy S II Epic 4G Touch
+398) Samsung C3322
+399) Samsung E2232
+400) Samsung E1182
+401) Samsung T369
+402) Samsung M580 Replenish
+403) Samsung C6712 Star II DUOS
+404) Samsung Google Nexus S I9020A
+405) Samsung P1010 Galaxy Tab Wi-Fi
+406) Samsung Galaxy Prevail
+407) Samsung M220L Galaxy Neo
+408) Samsung Google Nexus S I9023
+409) Samsung I9001 Galaxy S Plus
+410) Samsung E2230
+411) Samsung Galaxy Tab 10.1 P7510
+412) Samsung Galaxy Tab 8.9 P7310
+413) Samsung P7500 Galaxy Tab 10.1 3G
+414) Samsung Galaxy Tab 8.9 P7300
+415) Samsung Google Nexus S 4G
+416) Samsung Galaxy mini 2 S6500
+417) Samsung Galaxy Pop i559
+418) Samsung M260 Factor
+419) Samsung Galaxy Pro B7510
+420) Samsung E2652 Champ Duos
+421) Samsung E2652W Champ Duos
+422) Samsung Galaxy S WiFi 5.0
+423) Samsung E2330
+424) Samsung P7100 Galaxy Tab 10.1v
+425) Samsung S5780 Wave 578
+426) Samsung R910 Galaxy Indulge
+427) Samsung Galaxy Tab 4G LTE
+428) Samsung M210S Wave2
+429) Samsung C3630
+430) Samsung E3210
+431) Samsung S3850 Corby II
+432) Samsung I9003 Galaxy SL
+433) Samsung R710 Suede
+434) Samsung A200K Nori F
+435) Samsung A220 F Nori
+436) Samsung Guru E1081T
+437) Samsung E1225 Dual Sim Shift
+438) Samsung Mpower TV S239
+439) Samsung Mpower Txt M369
+440) Samsung Mpower Muzik 219
+441) Samsung W169 Duos
+442) Samsung Hero Plus B159
+443) Samsung Breeze B209
+444) Samsung Galaxy Gio S5660
+445) Samsung I100 Gem
+446) Samsung M190S Galaxy S Hoppin
+447) Samsung Droid Charge I510
+448) Samsung Ch@t 350
+449) Samsung Galaxy Fit S5670
+450) Samsung Galaxy Mini S5570
+451) Samsung Galaxy Ace S5830
+452) Samsung Galaxy S 4G T959
+453) Samsung S5260 Star II
+454) Samsung I997 Infuse 4G
+455) Samsung Galaxy Tab CDMA P100
+456) Samsung Galaxy Tab T-Mobile T849
+457) Samsung R580 Profile
+458) Samsung C3530
+459) Samsung E2530
+460) Samsung Ch@t 335
+461) Samsung I9010 Galaxy S Giorgio Armani
+462) Samsung I9100 Galaxy S II
+463) Samsung Google Nexus S
+464) Samsung U750 Zeal
+465) Samsung A817 Solstice II
+466) Samsung A667 Evergreen
+467) Samsung Continuum I400
+468) Samsung R570 Messenger III
+469) Samsung Ch@t 322
+470) Samsung E1252
+471) Samsung M130K Galaxy K
+472) Samsung T249
+473) Samsung M920 Transform
+474) Samsung Mesmerize i500
+475) Samsung R360 Freeform II
+476) Samsung S5750 Wave575
+477) Samsung I8700 Omnia 7
+478) Samsung S8530 Wave II
+479) Samsung R900 Craft
+480) Samsung Guru Dual 26
+481) Samsung Galaxy 551
+482) Samsung S7230E Wave 723
+483) Samsung Fascinate
+484) Samsung M130L Galaxy U
+485) Samsung I909 Galaxy S
+486) Samsung U360 Gusto
+487) Samsung U960 Rogue
+488) Samsung U450 Intensity
+489) Samsung A927 Flight II
+490) Samsung M850 Instinct HD
+491) Samsung i350 Intrepid
+492) Samsung M900 Moment
+493) Samsung W259 Duos
+494) Samsung Focus
+495) Samsung U460 Intensity II
+496) Samsung E2152
+497) Samsung R520 Trill
+498) Samsung R860 Caliber
+499) Samsung i220 Code
+500) Samsung U450 DoubleTake
+501) Samsung R351 Freeform
+502) Samsung M570 Restore
+503) Samsung Galaxy Q T589R
+504) Samsung i225 Exec
+505) Samsung R360 Messenger Touch
+506) Samsung M350 Seek
+507) Samsung U320 Haven
+508) Samsung I5801 Galaxy Apollo
+509) Samsung Acclaim
+510) Samsung Intercept
+511) Samsung M110S Galaxy S
+512) Samsung Vibrant
+513) Samsung Xcover 271
+514) Samsung Epic 4G
+515) Samsung i897 Captivate
+516) Samsung B6520 Omnia PRO 5
+517) Samsung B7350 Omnia PRO 4
+518) Samsung S5250 Wave525
+519) Samsung S5330 Wave533
+520) Samsung I5800 Galaxy 3
+521) Samsung I5500 Galaxy 5
+522) Samsung P1000 Galaxy Tab
+523) Samsung C5030
+524) Samsung S5530
+525) Samsung B7722
+526) Samsung A847 Rugby II
+527) Samsung M715 T*OMNIA II
+528) Samsung W850
+529) Samsung M3310L
+530) Samsung C3300K Champ
+531) Samsung T669 Gravity T
+532) Samsung T479 Gravity 3
+533) Samsung :) Smiley
+534) Samsung C5010 Squash
+535) Samsung E1170
+536) Samsung W960 AMOLED 3D
+537) Samsung Galaxy A
+538) Samsung Metro TV
+539) Samsung Corby TV F339
+540) Samsung SCH-W699
+541) Samsung W299 Duos
+542) Samsung W9705
+543) Samsung S5233T
+544) Samsung S3370
+545) Samsung A687 Strive
+546) Samsung A697 Sunburst
+547) Samsung F275
+548) Samsung E1150
+549) Samsung E2370 Xcover
+550) Samsung B3410W Ch@t
+551) Samsung I8520 Galaxy Beam
+552) Samsung C3200 Monte Bar
+553) Samsung E2550 Monte Slider
+554) Samsung S8500 Wave
+555) Samsung T139
+556) Samsung S5620 Monte
+557) Samsung I9000 Galaxy S
+558) Samsung M3710 Corby Beat
+559) Samsung A886 Forever
+560) Samsung S5350 Shark
+561) Samsung S3550 Shark 3
+562) Samsung M2520 Beat Techno
+563) Samsung S5550 Shark 2
+564) Samsung C3510 Genoa
+565) Samsung M5650 Lindy
+566) Samsung C3730C
+567) Samsung S3650W Corby
+568) Samsung S5150 Diva folder
+569) Samsung S7070 Diva
+570) Samsung C6112
+571) Samsung B5722
+572) Samsung M3310
+573) Samsung A797 Flight
+574) Samsung S5630C
+575) Samsung I6500U Galaxy
+576) Samsung A897 Mythic
+577) Samsung S5500 Eco
+578) Samsung C5130
+579) Samsung B3410
+580) Samsung E2130
+581) Samsung S5560 Marvel
+582) Samsung E1085T
+583) Samsung F480i
+584) Samsung E1390
+585) Samsung E1160
+586) Samsung E1130B
+587) Samsung T401G
+588) Samsung M8920
+589) Samsung B7620 Giorgio Armani
+590) Samsung I5700 Galaxy Spica
+591) Samsung T939 Behold 2
+592) Samsung Vodafone 360 H1
+593) Samsung Vodafone 360 M1
+594) Samsung S5510
+595) Samsung W880 AMOLED 12M
+596) Samsung B5310 CorbyPRO
+597) Samsung B3210 CorbyTXT
+598) Samsung E1080T
+599) Samsung B7330 OmniaPRO
+600) Samsung S5230W Star WiFi
+601) Samsung T659 Scarlet
+602) Samsung S7550 Blue Earth
+603) Samsung I6220 Star TV
+604) Samsung S3650 Corby
+605) Samsung B3310
+606) Samsung C3212
+607) Samsung S3100
+608) Samsung E2120
+609) Samsung A887 Solstice
+610) Samsung S9110
+611) Samsung T469 Gravity 2
+612) Samsung T559 Comeback
+613) Samsung T746 Impact
+614) Samsung S5600v Blade
+615) Samsung C5510
+616) Samsung S6700
+617) Samsung M2510
+618) Samsung M2310
+619) Samsung B7320 OmniaPRO
+620) Samsung B7300 OmniaLITE
+621) Samsung I8000 Omnia II
+622) Samsung S8000 Jet
+623) Samsung B7610 OmniaPRO
+624) Samsung E1107 Crest Solar
+625) Samsung I6210
+626) Samsung M2710 Beat Twist
+627) Samsung M8910 Pixon12
+628) Samsung S3310
+629) Samsung S5050
+630) Samsung T349
+631) Samsung S5200
+632) Samsung C3060R
+633) Samsung A167
+634) Samsung i637 Jack
+635) Samsung J165
+636) Samsung A177
+637) Samsung A257 Magnet
+638) Samsung I7500 Galaxy
+639) Samsung E1360
+640) Samsung E1210
+641) Samsung P250
+642) Samsung A657
+643) Samsung T219
+644) Samsung T119
+645) Samsung A877 Impression
+646) Samsung Propel Pro
+647) Samsung V820L
+648) Samsung T629
+649) Samsung C270
+650) Samsung C5220
+651) Samsung B2100 Xplorer
+652) Samsung E1117
+653) Samsung S5230 Star
+654) Samsung S5600 Preston
+655) Samsung C275
+656) Samsung C6625
+657) Samsung P270
+658) Samsung E2210B
+659) Samsung E1120
+660) Samsung E1310
+661) Samsung C5212
+662) Samsung C3010
+663) Samsung C3050 Stratus
+664) Samsung B5702
+665) Samsung i7410
+666) Samsung S3110
+667) Samsung S3500
+668) Samsung S7220 Ultra b
+669) Samsung S7350 Ultra s
+670) Samsung M6710 Beat DISC
+671) Samsung i8910 Omnia HD
+672) Samsung M7600 Beat DJ
+673) Samsung E1125
+674) Samsung E2100B
+675) Samsung E1100
+676) Samsung E1070
+677) Samsung S8300 UltraTOUCH
+678) Samsung T929 Memoir
+679) Samsung C3110
+680) Samsung B520
+681) Samsung E1410
+682) Samsung S9402 Ego
+683) Samsung S3030 Tobi
+684) Samsung U810 Renown
+685) Samsung i770 Saga
+686) Samsung A867 Eternity
+687) Samsung A777
+688) Samsung T339
+689) Samsung T229
+690) Samsung T459 Gravity
+691) Samsung T919 Behold
+692) Samsung E2510
+693) Samsung E1110
+694) Samsung C6620
+695) Samsung i907 Epix
+696) Samsung A767 Propel
+697) Samsung i7110
+698) Samsung A637
+699) Samsung T109
+700) Samsung B320
+701) Samsung C500
+702) Samsung C510
+703) Samsung F270 Beat
+704) Samsung S3600
+705) Samsung M8800 Pixon
+706) Samsung A837 Rugby
+707) Samsung M7500 Emporio Armani
+708) Samsung M3200 Beat s
+709) Samsung A237
+710) Samsung B210
+711) Samsung M3510 Beat b
+712) Samsung M200
+713) Samsung B2700
+714) Samsung F268
+715) Samsung E200 ECO
+716) Samsung E215
+717) Samsung B510
+718) Samsung D980
+719) Samsung B130
+720) Samsung M140
+721) Samsung M130
+722) Samsung S7330
+723) Samsung i740
+724) Samsung i8510 INNOV8
+725) Samsung M150
+726) Samsung B300
+727) Samsung A711
+728) Samsung Impact sf
+729) Samsung Impact b
+730) Samsung Impact
+731) Samsung J800 Luxe
+732) Samsung L700
+733) Samsung M310
+734) Samsung i900 Omnia
+735) Samsung L810v Steel
+736) Samsung A827 Access
+737) Samsung P220
+738) Samsung P180
+739) Samsung U800 Soul b
+740) Samsung L870
+741) Samsung T639
+742) Samsung T509
+743) Samsung T429
+744) Samsung T409
+745) Samsung T729 Blast
+746) Samsung T539 Beat
+747) Samsung A727
+748) Samsung A717
+749) Samsung A437
+750) Samsung A127
+751) Samsung A117
+752) Samsung A746
+753) Samsung M620
+754) Samsung B200
+755) Samsung B110
+756) Samsung D780
+757) Samsung J210
+758) Samsung J630
+759) Samsung SPH-i325 Ace
+760) Samsung B500
+761) Samsung B100
+762) Samsung F110
+763) Samsung G400 Soul
+764) Samsung i640
+765) Samsung F480
+766) Samsung E251
+767) Samsung L770
+768) Samsung J150
+769) Samsung J700
+770) Samsung F400
+771) Samsung i200
+772) Samsung P960
+773) Samsung G810
+774) Samsung U900 Soul
+775) Samsung L320
+776) Samsung L310
+777) Samsung J400
+778) Samsung T819
+779) Samsung L170
+780) Samsung T439
+781) Samsung T739 Katalyst
+782) Samsung A517
+783) Samsung A737
+784) Samsung i617 BlackJack II
+785) Samsung i607 BlackJack
+786) Samsung F490
+787) Samsung M110
+788) Samsung F250
+789) Samsung J610
+790) Samsung J750
+791) Samsung D880 Duos
+792) Samsung i560
+793) Samsung G800
+794) Samsung A411
+795) Samsung X550
+796) Samsung Serenata
+797) Samsung i780
+798) Samsung i550
+799) Samsung M610
+800) Samsung J200
+801) Samsung M600
+802) Samsung F330
+803) Samsung E230
+804) Samsung E210
+805) Samsung i450
+806) Samsung Z360
+807) Samsung L600
+808) Samsung Armani
+809) Samsung P260
+810) Samsung Z630
+811) Samsung S720i
+812) Samsung C450
+813) Samsung C180
+814) Samsung G600
+815) Samsung ZV60
+816) Samsung S730i
+817) Samsung Z170
+818) Samsung L760
+819) Samsung F200
+820) Samsung E950
+821) Samsung F210
+822) Samsung C170
+823) Samsung i620
+824) Samsung M300
+825) Samsung D900i
+826) Samsung C520
+827) Samsung J600
+828) Samsung Z240
+829) Samsung i400
+830) Samsung C160
+831) Samsung C250
+832) Samsung C260
+833) Samsung E200
+834) Samsung i710
+835) Samsung i520
+836) Samsung E740
+837) Samsung E590
+838) Samsung P110
+839) Samsung E830
+840) Samsung E840
+841) Samsung F520
+842) Samsung F510
+843) Samsung U100
+844) Samsung U300
+845) Samsung U700
+846) Samsung U600
+847) Samsung E790
+848) Samsung F700
+849) Samsung C140
+850) Samsung X540
+851) Samsung P940
+852) Samsung P930
+853) Samsung i600
+854) Samsung F500
+855) Samsung F300
+856) Samsung E890
+857) Samsung E690
+858) Samsung E490
+859) Samsung E480
+860) Samsung Z650i
+861) Samsung E898
+862) Samsung E250
+863) Samsung X520
+864) Samsung E390
+865) Samsung X530
+866) Samsung C300
+867) Samsung X510
+868) Samsung E420
+869) Samsung E570
+870) Samsung Z230
+871) Samsung C400
+872) Samsung P310
+873) Samsung X830
+874) Samsung Z720
+875) Samsung Z620
+876) Samsung Z370
+877) Samsung P200
+878) Samsung ZV40
+879) Samsung S501i
+880) Samsung S401i
+881) Samsung E380
+882) Samsung X680
+883) Samsung X630
+884) Samsung E780
+885) Samsung C240
+886) Samsung X500
+887) Samsung D840
+888) Samsung C130
+889) Samsung D830
+890) Samsung P920
+891) Samsung ZV50
+892) Samsung D900
+893) Samsung X210
+894) Samsung X650
+895) Samsung X820
+896) Samsung X160
+897) Samsung E370
+898) Samsung X670
+899) Samsung Z400
+900) Samsung Z550
+901) Samsung E900
+902) Samsung D780 flip
+903) Samsung D870
+904) Samsung i310
+905) Samsung X300
+906) Samsung D300
+907) Samsung S400i
+908) Samsung Z710
+909) Samsung Z600
+910) Samsung Z330
+911) Samsung Z520
+912) Samsung Z350
+913) Samsung Z310
+914) Samsung Z150
+915) Samsung i320
+916) Samsung D520
+917) Samsung P910
+918) Samsung Z560
+919) Samsung P900
+920) Samsung E870
+921) Samsung X490
+922) Samsung D810
+923) Samsung i300x
+924) Samsung Z320i
+925) Samsung X150
+926) Samsung C120
+927) Samsung ZV10
+928) Samsung D820
+929) Samsung D800
+930) Samsung Z540
+931) Samsung Z510
+932) Samsung P300
+933) Samsung E770
+934) Samsung E360
+935) Samsung ZV30
+936) Samsung S500i
+937) Samsung E860
+938) Samsung X200
+939) Samsung X660
+940) Samsung S410i
+941) Samsung Serene
+942) Samsung X700
+943) Samsung C210
+944) Samsung E760
+945) Samsung X810
+946) Samsung C230
+947) Samsung D550
+948) Samsung S342i
+949) Samsung E880
+950) Samsung Z140
+951) Samsung X620
+952) Samsung X800
+953) Samsung D510
+954) Samsung E530
+955) Samsung E640
+956) Samsung E750
+957) Samsung E620
+958) Samsung i750
+959) Samsung D730
+960) Samsung E730
+961) Samsung P860
+962) Samsung P850
+963) Samsung Z700
+964) Samsung i300
+965) Samsung D600
+966) Samsung X140
+967) Samsung Z110
+968) Samsung E340
+969) Samsung D720
+970) Samsung Z130
+971) Samsung Z500
+972) Samsung Z300
+973) Samsung E350
+974) Samsung SCH-B100
+975) Samsung X640
+976) Samsung X480
+977) Samsung E720
+978) Samsung Z107
+979) Samsung D428
+980) Samsung D488
+981) Samsung E850
+982) Samsung E630
+983) Samsung C200
+984) Samsung D500
+985) Samsung X460
+986) Samsung E330
+987) Samsung E310
+988) Samsung E500
+989) Samsung i250
+990) Samsung X610
+991) Samsung X120
+992) Samsung E610
+993) Samsung C110
+994) Samsung X910
+995) Samsung X900
+996) Samsung D710
+997) Samsung E300
+998) Samsung E810
+999) Samsung P710
+1000) Samsung E800
+1001) Samsung P730
+1002) Samsung P510
+1003) Samsung Z105
+1004) Samsung i505
+1005) Samsung X450
+1006) Samsung E410
+1007) Samsung E600
+1008) Samsung X430
+1009) Samsung E700
+1010) Samsung D410
+1011) Samsung Z100
+1012) Samsung P705
+1013) Samsung E100
+1014) Samsung S500
+1015) Samsung X600
+1016) Samsung X100
+1017) Samsung D100
+1018) Samsung E715
+1019) Samsung E105
+1020) Samsung P100
+1021) Samsung S200
+1022) Samsung C100
+1023) Samsung i700
+1024) Samsung i500
+1025) Samsung D700
+1026) Samsung P500
+1027) Samsung X410
+1028) Samsung X400
+1029) Samsung E400
+1030) Samsung Watch Phone
+1031) Samsung V200
+1032) Samsung T200
+1033) Samsung T500
+1034) Samsung P400
+1035) Samsung T700
+1036) Samsung S300
+1037) Samsung T400
+1038) Samsung A800
+1039) Samsung N500
+1040) Samsung V100
+1041) Samsung S100
+1042) Samsung Q300
+1043) Samsung A500
+1044) Samsung N620
+1045) Samsung T100
+1046) Samsung Q200
+1047) Samsung Q105
+1048) Samsung N105
+1049) Samsung R220
+1050) Samsung R210
+1051) Samsung R200
+1052) Samsung N400
+1053) Samsung A400
+1054) Samsung N300
+1055) Samsung A300
+1056) Samsung A200
+1057) Samsung Q100
+1058) Samsung N100
+1059) Samsung M100
+1060) Samsung A110
+1061) Samsung A100
+1062) Samsung SGH-2400
+1063) Samsung SGH-2200
+1064) Samsung SGH-2100
+1065) Samsung SGH-810
+1066) Samsung SGH-800
+1067) Samsung SGH-600
+1068) Samsung SGH-500
+1069) Samsung SGH-250
+1) LG K5
+2) LG X cam
+3) LG X screen
+4) LG K8
+5) LG Stylus 2
+6) LG K4
+7) LG K10
+8) LG K7
+9) LG G Pad II 8.3 LTE
+10) LG G5
+11) LG Ray
+12) LG G Watch W100
+13) LG G Watch R W110
+14) LG Watch Urbane W150
+15) LG G Vista 2
+16) LG Watch Urbane 2nd Edition
+17) LG V10
+18) LG Zero
+19) LG Nexus 5X
+20) LG G Pad II 10.1
+21) LG G Pad II 8.0 LTE
+22) LG Wine Smart
+23) LG Tribute 2
+24) LG Bello II
+25) LG G4 Beat
+26) LG G360
+27) LG G350
+28) LG G4 Pro
+29) LG G Pad 10.1 LTE
+30) LG G4 Dual
+31) LG G4c
+32) LG G Stylo (CDMA)
+33) LG G4 Stylus
+34) LG AKA
+35) LG 450
+36) LG Watch Urbane LTE
+37) LG L45 Dual X132
+38) LG Joy
+39) LG Leon
+40) LG Spirit
+41) LG Magna
+42) LG L80
+43) LG G Flex2
+44) LG G4
+45) LG Tribute
+46) LG G2 Lite
+47) LG L Prime
+48) LG G3 Dual-LTE
+49) LG G3 Screen
+50) LG F60
+51) LG L60
+52) LG L Bello
+53) LG L Fino
+54) LG G Pad 8.0 LTE
+55) LG G3 (CDMA)
+56) LG G Vista
+57) LG G3 A
+58) LG G3 Stylus
+59) LG G Pad 7.0 LTE
+60) LG L20
+61) LG L30
+62) LG L50
+63) LG G Vista (CDMA)
+64) LG G3 LTE-A
+65) LG G3 S Dual
+66) LG G3 S
+67) LG A395
+68) LG A390
+69) LG L60 Dual
+70) LG Optimus L4 II Tri E470
+71) LG L35
+72) LG Volt
+73) LG G Pad 10.1
+74) LG G Pad 8.0
+75) LG G Pad 7.0
+76) LG L80 Dual
+77) LG Lucid 3 VS876
+78) LG L65 D280
+79) LG L65 Dual D285
+80) LG G3
+81) LG L40 D160
+82) LG L70 D320N
+83) LG G Pad 8.3 LTE
+84) LG L90 Dual D410
+85) LG F70 D315
+86) LG G2 mini LTE (Tegra)
+87) LG G2 mini LTE
+88) LG L40 Dual D170
+89) LG L70 Dual D325
+90) LG L90 D405
+91) LG G2 mini
+92) LG G Pro 2
+93) LG Optimus L1 II Tri E475
+94) LG Optimus F3Q
+95) LG C299
+96) LG GX F310L
+97) LG G Flex
+98) LG Fireweb
+99) LG G Pro Lite
+100) LG Optimus L2 II E435
+101) LG G Pro Lite Dual
+102) LG Vu 3 F300L
+103) LG Optimus F6
+104) LG Nexus 5
+105) LG G Pad 8.3
+106) LG Optimus L9 II
+107) LG Enact VS890
+108) LG Optimus L1 II E410
+109) LG Optimus GJ E975W
+110) LG Optimus Zone VS410
+111) LG G2
+112) LG Optimus F3
+113) LG Optimus L4 II Dual E445
+114) LG Optimus L4 II E440
+115) LG Etna C330
+116) LG Lucid2 VS870
+117) LG Optimus L3 II Dual E435
+118) LG Optimus L5 II Dual E455
+119) LG Optimus L7 II Dual P715
+120) LG Optimus Vu II
+121) LG Optimus F5
+122) LG Optimus F7
+123) LG Optimus L5 II E460
+124) LG Optimus L3 II E430
+125) LG Optimus L7 II P710
+126) LG Optimus G Pro E985
+127) LG Tri Chip C333
+128) LG Spectrum II 4G VS930
+129) LG Optimus G E970
+130) LG Nexus 4 E960
+131) LG Mach LS860
+132) LG Optimus L9 P769
+133) LG Intuition VS950
+134) LG T385
+135) LG Splendor US730
+136) LG Escape P870
+137) LG Optimus L5 Dual E615
+138) LG Optimus L9 P760
+139) LG Optimus Vu II F200
+140) LG Motion 4G MS770
+141) LG A270
+142) LG Optimus G E975
+143) LG Optimus Vu P895
+144) LG Optimus L3 E405
+145) LG C199
+146) LG T375 Cookie Smart
+147) LG Optimus G LS970
+148) LG Optimus Elite LS696
+149) LG Optimus LTE2
+150) LG Optimus True HD LTE P936
+151) LG Xpression C395
+152) LG T370 Cookie Smart
+153) LG C365
+154) LG Optimus LTE
+155) LG Lucid 4G VS840
+156) LG Optimus M+ MS695
+157) LG C360
+158) LG Rumor Reflex  LN272
+159) LG A258
+160) LG Optimus L5 E610
+161) LG Optimus L7 P700
+162) LG Optimus 4X HD P880
+163) LG Optimus 3D Max P720
+164) LG A250
+165) LG Optimus LTE Tag
+166) LG Optimus Vu F100S
+167) LG Optimus 3D Cube SU870
+168) LG A290
+169) LG Optimus L3 E400
+170) LG X3
+171) LG Optimus Pad LTE
+172) LG Connect 4G MS840
+173) LG Viper 4G LTE LS840
+174) LG Optimus 2 AS680
+175) LG X350
+176) LG Spectrum VS920
+177) LG Optimus 4G LTE P935
+178) LG Enlighten VS700
+179) LG Extravert VN271
+180) LG Nitro HD
+181) LG T510
+182) LG Optimus Net Dual
+183) LG Esteem MS910
+184) LG Marquee LS855
+185) LG Optimus Slider
+186) LG T505
+187) LG A350
+188) LG DoublePlay
+189) LG S367
+190) LG T515 Cookie Duo
+191) LG Jil Sander Mobile
+192) LG Optimus LTE SU640
+193) LG C375 Cookie Tweet
+194) LG A180
+195) LG Optimus EX SU880
+196) LG Optimus LTE LU6200
+197) LG Optimus Hub E510
+198) LG Optimus Q2 LU6500
+199) LG A165
+200) LG A190
+201) LG A200
+202) LG S365
+203) LG EGO T500
+204) LG Wink Plus GT350i
+205) LG Cosmos 2
+206) LG E2
+207) LG Optimus Sol E730
+208) LG Fantasy E740
+209) LG Univa E510
+210) LG Prada 3.0
+211) LG A230
+212) LG Optimus Net
+213) LG Optimus Pro C660
+214) LG Optimus Black (White version)
+215) LG US760 Genesis
+216) LG EGO Wi-Fi
+217) LG A100
+218) LG Optimus Big LU6800
+219) LG Phoenix P505
+220) LG Thrive P506
+221) LG P525
+222) LG Thrill 4G P925
+223) LG T315
+224) LG GU200
+225) LG X335
+226) LG Optimus Chat C550
+227) LG Optimus Pad V900
+228) LG Optimus 2X SU660
+229) LG Optimus 3D P920
+230) LG A160
+231) LG Optimus Me P350
+232) LG Revolution
+233) LG Axis
+234) LG Optimus Black P970
+235) LG C310
+236) LG A120
+237) LG A155
+238) LG Cookie WiFi T310i
+239) LG Flick T320
+240) LG S310
+241) LG Optimus M
+242) LG Optimus Mach LU3000
+243) LG P520
+244) LG Apex
+245) LG Cosmos Touch VN270
+246) LG Vortex VS660
+247) LG C320 InTouch Lady
+248) LG Octane
+249) LG 8575 Samba
+250) LG GS390 Prime
+251) LG GT550 Encore
+252) LG Optimus 2X
+253) LG Optimus S
+254) LG Quantum
+255) LG C900 Optimus 7Q 
+256) LG Optimus T
+257) LG E900 Optimus 7
+258) LG Optimus One P500
+259) LG GS190
+260) LG Optimus Chic E720
+261) LG Town C300
+262) LG GM650s
+263) LG Scarlet II TV
+264) LG Cookie 3G T320
+265) LG Cookie Style T310
+266) LG Wink 3G T320
+267) LG C105
+268) LG A130
+269) LG C710 Aloha
+270) LG Cookie Lite T300
+271) LG Wink Style T310
+272) LG GX300
+273) LG GM360 Viewty Snap
+274) LG Fathom VS750
+275) LG Vu Plus
+276) LG GW910
+277) LG Optimus Z
+278) LG SU920
+279) LG KH3900 Joypop
+280) LG SU420 Cafe
+281) LG GB280
+282) LG GU292
+283) LG GW880
+284) LG Optimus Q LU2300
+285) LG GS107
+286) LG GS106
+287) LG GS155
+288) LG GX500
+289) LG KP108
+290) LG KM570 Cookie Gig
+291) LG GW370 Rumour Plus
+292) LG A140
+293) LG KS365
+294) LG GD550 Pure
+295) LG GT400 Viewty Smile
+296) LG GT405
+297) LG KH5200 Andro-1
+298) LG GS290 Cookie Fresh
+299) LG KF305
+300) LG GW990
+301) LG GS500 Cookie Plus
+302) LG Town GT350
+303) LG GD310 
+304) LG GD350
+305) LG KB775 Scarlet
+306) LG GM210
+307) LG KU2100
+308) LG GX200
+309) LG GD580 Lollipop
+310) LG GT540 Optimus
+311) LG GD880 Mini
+312) LG GT950 Arena
+313) LG GS200
+314) LG GW820 eXpo
+315) LG GU230 Dimsun
+316) LG GB160
+317) LG CF360
+318) LG GD710 Shine II
+319) LG GU285
+320) LG KM555E
+321) LG GB190
+322) LG GD510 Pop
+323) LG BL20 New Chocolate
+324) LG GW620
+325) LG U370
+326) LG GM750
+327) LG GW300
+328) LG BL40 New Chocolate
+329) LG GB109
+330) LG KF757 Secret
+331) LG GB230 Julia
+332) LG GB270
+333) LG CP150
+334) LG GT500 Puccini
+335) LG GB170
+336) LG GW550
+337) LG KP502 Cookie
+338) LG GT505
+339) LG GW520
+340) LG KS660
+341) LG GD900 Crystal
+342) LG GC900 Viewty Smart
+343) LG GD330
+344) LG GB125
+345) LG GT365 Neon
+346) LG GB210
+347) LG Xenon GR500
+348) LG GM200 Brio
+349) LG KF245
+350) LG KC560
+351) LG KC910i Renoir
+352) LG GB250
+353) LG GB220
+354) LG GB102
+355) LG KT770
+356) LG GM310
+357) LG GB130
+358) LG GM730 Eigen
+359) LG KM900 Arena
+360) LG KM330
+361) LG KF311
+362) LG KP501 Cookie
+363) LG GB110
+364) LG GB106
+365) LG GD910
+366) LG KP170
+367) LG KP270
+368) LG CT810 Incite
+369) LG KP152
+370) LG KS500
+371) LG KF900 Prada
+372) LG KC780
+373) LG KP500 Cookie
+374) LG KP260
+375) LG KB770
+376) LG CB630 Invision
+377) LG KC910 Renoir
+378) LG KP199
+379) LG KF390
+380) LG HB620T
+381) LG KF350
+382) LG KP265
+383) LG KS360
+384) LG KG288
+385) LG KM380
+386) LG KM386
+387) LG KF240
+388) LG KE590
+389) LG KU385
+390) LG MG160
+391) LG MG295
+392) LG KP215
+393) LG KF755 Secret
+394) LG KP110
+395) LG KP105
+396) LG KC550
+397) LG KP210
+398) LG KP220
+399) LG KP320
+400) LG CU915 Vu
+401) LG KP100
+402) LG KF750 Secret
+403) LG KF300
+404) LG KE990 Viewty
+405) LG KP130
+406) LG KP235
+407) LG KT520
+408) LG KM338
+409) LG KM710
+410) LG KF310
+411) LG KM500
+412) LG KT610
+413) LG KF510
+414) LG KF700
+415) LG KF600
+416) LG CG180
+417) LG Trax CU575
+418) LG CU500V
+419) LG CE110
+420) LG CU515
+421) LG CU720 Shine
+422) LG KG375
+423) LG KU380
+424) LG KG275
+425) LG U960
+426) LG KG290
+427) LG KS20
+428) LG U8290
+429) LG KU990 Viewty
+430) LG KG195
+431) LG KP200
+432) LG KU311
+433) LG KG270
+434) LG KG130
+435) LG KP202
+436) LG KG280
+437) LG C2600
+438) LG KE500
+439) LG B2150
+440) LG B2070
+441) LG S5000
+442) LG C3380
+443) LG KU580
+444) LG KU950
+445) LG KE770 Shine
+446) LG KU970 Shine
+447) LG KS10
+448) LG KU250
+449) LG L343i
+450) LG KE970 Shine
+451) LG KE850 Prada
+452) LG KG330
+453) LG U830
+454) LG KE260
+455) LG U310
+456) LG KG200
+457) LG KG300
+458) LG KE800
+459) LG KE820
+460) LG KG110
+461) LG L600v
+462) LG KU800
+463) LG KG120
+464) LG KG190
+465) LG C2500
+466) LG KG240
+467) LG CU500
+468) LG U300
+469) LG U400
+470) LG KG245
+471) LG KG210
+472) LG KG810
+473) LG U900
+474) LG KG220
+475) LG KG225
+476) LG KG800
+477) LG KE600
+478) LG KG320
+479) LG S5300
+480) LG U890
+481) LG U8550
+482) LG V9000
+483) LG KU730
+484) LG KG920
+485) LG M6100
+486) LG B2050
+487) LG C1150
+488) LG F3000
+489) LG S5100
+490) LG S5200
+491) LG F2250
+492) LG U880
+493) LG U8330
+494) LG U8360
+495) LG U8380
+496) LG P7200
+497) LG B2250
+498) LG F2410
+499) LG M4330
+500) LG L342i
+501) LG L341i
+502) LG M4410
+503) LG F2400
+504) LG U8180
+505) LG C2100
+506) LG C3320
+507) LG B2100
+508) LG B2000
+509) LG F1200
+510) LG U8138
+511) LG U8210
+512) LG U8200
+513) LG C3400
+514) LG C3310
+515) LG C3300
+516) LG M4300
+517) LG G1610
+518) LG F2300
+519) LG G1700
+520) LG F7250
+521) LG G1800
+522) LG A7150
+523) LG L5100
+524) LG C2200
+525) LG F2100
+526) LG G3100
+527) LG U8120
+528) LG C1400
+529) LG C1100
+530) LG C1200
+531) LG C3100
+532) LG U8110
+533) LG L3100
+534) LG L1100
+535) LG G1600
+536) LG G7200
+537) LG T5100
+538) LG G1500
+539) LG G7120
+540) LG G5500
+541) LG G5310
+542) LG U8150
+543) LG U8100
+544) LG B1200
+545) LG LG 510w
+546) LG G7100
+547) LG G7070
+548) LG G7050
+549) LG G7030
+550) LG G5400
+551) LG G5300
+552) LG G8000
+553) LG G7020
+554) LG W7020
+555) LG G7000
+556) LG W7000
+557) LG G5200
+558) LG W5200
+559) LG G3000
+560) LG W3000
+561) LG LG-600
+562) LG LG-500
+563) LG LG-200
+1) Apple iPad Pro 9.7
+2) Apple iPhone SE
+3) Apple Watch Edition 42mm
+4) Apple Watch Edition 38mm
+5) Apple Watch 42mm
+6) Apple Watch 38mm
+7) Apple Watch Sport 42mm
+8) Apple Watch Sport 38mm
+9) Apple iPad Pro
+10) Apple iPad mini 4
+11) Apple iPhone 6s Plus
+12) Apple iPhone 6s
+13) Apple iPad Air 2
+14) Apple iPad mini 3
+15) Apple iPhone 6 Plus
+16) Apple iPhone 6
+17) Apple iPad Air
+18) Apple iPad mini 2
+19) Apple iPhone 5c
+20) Apple iPhone 5s
+21) Apple iPad 4 Wi-Fi
+22) Apple iPad 4 Wi-Fi + Cellular
+23) Apple iPad mini Wi-Fi
+24) Apple iPad mini Wi-Fi + Cellular
+25) Apple iPhone 5
+26) Apple iPad 3 Wi-Fi
+27) Apple iPad 3 Wi-Fi + Cellular
+28) Apple iPhone 4s
+29) Apple iPad 2 CDMA
+30) Apple iPad 2 Wi-Fi + 3G
+31) Apple iPad 2 Wi-Fi
+32) Apple iPad Wi-Fi
+33) Apple iPad Wi-Fi + 3G
+34) Apple iPhone 4 CDMA
+35) Apple iPhone 4
+36) Apple iPhone 3GS
+37) Apple iPhone 3G
+38) Apple iPhone
+1) Sony Xperia XA Dual
+2) Sony Xperia XA
+3) Sony Xperia X Performance
+4) Sony Xperia X
+5) Sony SmartWatch 2 SW2
+6) Sony SmartWatch 3 SWR50
+7) Sony Xperia Z5 Premium Dual
+8) Sony Xperia Z5 Dual
+9) Sony Xperia Z5 Premium
+10) Sony Xperia Z5 Compact
+11) Sony Xperia Z5
+12) Sony Xperia C5 Ultra Dual
+13) Sony Xperia M5 Dual
+14) Sony Xperia M5
+15) Sony Xperia C5 Ultra
+16) Sony Xperia Z4v
+17) Sony Xperia Z3+ dual
+18) Sony Xperia Z4 Tablet WiFi
+19) Sony Xperia C4 Dual
+20) Sony Xperia C4
+21) Sony Xperia M4 Aqua Dual
+22) Sony Xperia Z4 Tablet LTE
+23) Sony Xperia M4 Aqua
+24) Sony Xperia E4g Dual
+25) Sony Xperia E4g
+26) Sony Xperia E4 Dual
+27) Sony Xperia E1 II
+28) Sony Xperia Z4 Ultra
+29) Sony Xperia Z4 Compact
+30) Sony Xperia E4
+31) Sony Xperia Z3+
+32) Sony Xperia Z3v
+33) Sony Xperia E3 Dual
+34) Sony Xperia E3
+35) Sony Xperia Z3 Tablet Compact
+36) Sony Xperia Z3 Dual
+37) Sony Xperia M2 Aqua
+38) Sony Xperia Z3
+39) Sony Xperia Z3 Compact
+40) Sony Xperia C3 Dual
+41) Sony Xperia C3
+42) Sony Xperia Z2a
+43) Sony Xperia T3
+44) Sony D 2403
+45) Sony Xperia M2 dual
+46) Sony Xperia Z2 Tablet Wi-Fi
+47) Sony Xperia M2
+48) Sony Xperia Z2 Tablet LTE
+49) Sony Xperia Z2
+50) Sony Xperia T2 Ultra dual
+51) Sony Xperia E1 dual
+52) Sony Xperia E1
+53) Sony Xperia T2 Ultra
+54) Sony Xperia Z1s
+55) Sony Xperia Z1 Compact
+56) Sony Xperia Z1
+57) Sony Xperia C
+58) Sony Xperia Z Ultra
+59) Sony Xperia M
+60) Sony Xperia ZR
+61) Sony Xperia SP
+62) Sony Xperia L
+63) Sony Xperia C670X
+64) Sony Xperia Tablet Z Wi-Fi
+65) Sony Xperia Tablet Z LTE
+66) Sony Xperia Z
+67) Sony Xperia ZL
+68) Sony Xperia E
+69) Sony Xperia E dual
+70) Sony Xperia T LTE
+71) Sony Xperia Tablet S 3G
+72) Sony Xperia TX
+73) Sony Xperia V
+74) Sony Xperia J
+75) Sony Xperia Tablet S
+76) Sony Xperia T
+77) Sony Xperia SL
+78) Sony Xperia tipo dual
+79) Sony Xperia miro
+80) Sony Xperia ion HSPA
+81) Sony Xperia go
+82) Sony Xperia acro S
+83) Sony Xperia SX SO-05D
+84) Sony Xperia GX SO-04D
+85) Sony Xperia acro HD SO-03D
+86) Sony Xperia acro HD SOI12
+87) Sony Xperia LT29i Hayabusa
+88) Sony Xperia tipo
+89) Sony Tablet P
+90) Sony Xperia neo L
+91) Sony Xperia U
+92) Sony Xperia P
+93) Sony Xperia ion LTE
+94) Sony Xperia sola
+95) Sony Xperia S
+96) Sony Tablet P 3G
+97) Sony Tablet S 3G
+98) Sony Tablet S
+99) Sony Ericsson Xperia Arc S
+100) Sony Ericsson Xperia neo V
+101) Sony Ericsson Live with Walkman
+102) Sony Ericsson Xperia Duo
+103) Sony Ericsson txt
+104) Sony Ericsson Xperia active
+105) Sony Ericsson Mix Walkman
+106) Sony Ericsson txt pro
+107) Sony Ericsson Xperia ray
+108) Sony Ericsson WT18i
+109) Sony Ericsson Xperia mini
+110) Sony Ericsson W8
+111) Sony Ericsson Windows Phone 7
+112) Sony Ericsson Xperia PLAY CDMA
+113) Sony Ericsson Xperia pro
+114) Sony Ericsson Xperia Neo
+115) Sony Ericsson Xperia mini pro
+116) Sony Ericsson Xperia Arc
+117) Sony Ericsson Xperia PLAY
+118) Sony Ericsson A8i
+119) Sony Ericsson Cedar
+120) Sony Ericsson Xperia X8
+121) Sony Ericsson Yendo
+122) Sony Ericsson BRAVIA S004
+123) Sony Ericsson S003
+124) Sony Ericsson Zylo
+125) Sony Ericsson Spiro
+126) Sony Ericsson Xperia X10 mini pro
+127) Sony Ericsson Xperia X10 mini
+128) Sony Ericsson Aspen
+129) Sony Ericsson Vivaz pro
+130) Sony Ericsson Hazel
+131) Sony Ericsson Elm
+132) Sony Ericsson Vivaz
+133) Sony Ericsson Xperia Pureness
+134) Sony Ericsson Xperia X10
+135) Sony Ericsson Xperia X2
+136) Sony Ericsson Jalou D&G edition
+137) Sony Ericsson Jalou
+138) Sony Ericsson T715
+139) Sony Ericsson C901 GreenHeart
+140) Sony Ericsson J105 Naite
+141) Sony Ericsson Aino
+142) Sony Ericsson Yari
+143) Sony Ericsson W595s
+144) Sony Ericsson W205
+145) Sony Ericsson S312
+146) Sony Ericsson T707
+147) Sony Ericsson Satio (Idou)
+148) Sony Ericsson W995
+149) Sony Ericsson C901
+150) Sony Ericsson W395
+151) Sony Ericsson C903
+152) Sony Ericsson W715
+153) Sony Ericsson W508
+154) Sony Ericsson C510
+155) Sony Ericsson W705
+156) Sony Ericsson G705
+157) Sony Ericsson TM506
+158) Sony Ericsson T700
+159) Sony Ericsson W302
+160) Sony Ericsson W595
+161) Sony Ericsson W902
+162) Sony Ericsson G700 Business Edition
+163) Sony Ericsson F305
+164) Sony Ericsson J132
+165) Sony Ericsson S302
+166) Sony Ericsson K330
+167) Sony Ericsson C905
+168) Sony Ericsson Z780
+169) Sony Ericsson G502
+170) Sony Ericsson K205
+171) Sony Ericsson T303
+172) Sony Ericsson Z770
+173) Sony Ericsson C702
+174) Sony Ericsson C902
+175) Sony Ericsson W980
+176) Sony Ericsson G700
+177) Sony Ericsson G900
+178) Sony Ericsson Xperia X1
+179) Sony Ericsson T280
+180) Sony Ericsson T270
+181) Sony Ericsson R300 Radio
+182) Sony Ericsson R306 Radio
+183) Sony Ericsson Z555
+184) Sony Ericsson W350
+185) Sony Ericsson W760
+186) Sony Ericsson K660
+187) Sony Ericsson W890
+188) Sony Ericsson W380
+189) Sony Ericsson K630
+190) Sony Ericsson V640
+191) Sony Ericsson K770
+192) Sony Ericsson W960
+193) Sony Ericsson W910
+194) Sony Ericsson Z320
+195) Sony Ericsson Z250
+196) Sony Ericsson K530
+197) Sony Ericsson K850
+198) Sony Ericsson T250
+199) Sony Ericsson T650
+200) Sony Ericsson S500
+201) Sony Ericsson P1
+202) Sony Ericsson Z750
+203) Sony Ericsson W580
+204) Sony Ericsson W660
+205) Sony Ericsson W888
+206) Sony Ericsson K550im
+207) Sony Ericsson W610
+208) Sony Ericsson J110
+209) Sony Ericsson J120
+210) Sony Ericsson K200
+211) Sony Ericsson K220
+212) Sony Ericsson K550
+213) Sony Ericsson K810
+214) Sony Ericsson W880
+215) Sony Ericsson W200
+216) Sony Ericsson Z310
+217) Sony Ericsson Z558
+218) Sony Ericsson K320
+219) Sony Ericsson W830
+220) Sony Ericsson Z610
+221) Sony Ericsson K618
+222) Sony Ericsson V630
+223) Sony Ericsson M608
+224) Sony Ericsson Z550
+225) Sony Ericsson W850
+226) Sony Ericsson W710
+227) Sony Ericsson Z710
+228) Sony Ericsson W700
+229) Sony Ericsson Z525
+230) Sony Ericsson K310
+231) Sony Ericsson K510
+232) Sony Ericsson Z530
+233) Sony Ericsson W300
+234) Sony Ericsson K800
+235) Sony Ericsson K790
+236) Sony Ericsson W950
+237) Sony Ericsson K610
+238) Sony Ericsson J100
+239) Sony Ericsson M600
+240) Sony Ericsson W810
+241) Sony Ericsson J230
+242) Sony Ericsson J220
+243) Sony Ericsson Z300
+244) Sony Ericsson W900
+245) Sony Ericsson P990
+246) Sony Ericsson W550
+247) Sony Ericsson W600
+248) Sony Ericsson Z520
+249) Sony Ericsson J210
+250) Sony Ericsson K608
+251) Sony Ericsson K508
+252) Sony Ericsson V600
+253) Sony Ericsson D750
+254) Sony Ericsson J300
+255) Sony Ericsson K750
+256) Sony Ericsson W800
+257) Sony Ericsson K600
+258) Sony Ericsson Z800
+259) Sony Ericsson K300
+260) Sony Ericsson T290
+261) Sony Ericsson J200
+262) Sony Ericsson V800
+263) Sony Ericsson S710
+264) Sony Ericsson K500
+265) Sony Ericsson P910
+266) Sony Ericsson F500i
+267) Sony Ericsson Z500
+268) Sony Ericsson S700
+269) Sony Ericsson K700
+270) Sony Ericsson T630
+271) Sony Ericsson P900
+272) Sony Ericsson Z600
+273) Sony Ericsson Z200
+274) Sony Ericsson T105
+275) Sony Ericsson T230
+276) Sony Ericsson Z1010
+277) Sony Ericsson T610
+278) Sony Ericsson T100
+279) Sony Ericsson T600
+280) Sony Ericsson T300
+281) Sony Ericsson T200
+282) Sony Ericsson Z700
+283) Sony Ericsson P800
+284) Sony Ericsson T68i
+285) Sony CMD Z7
+286) Sony CMD J70
+287) Sony CMD J7
+288) Sony CMD J6
+289) Sony CMD MZ5
+290) Sony CMD J5
+291) Sony CMD Z5
+292) Sony CMD CD5
+293) Sony CMD C1
+294) Sony CMD Z1 plus
+295) Sony CMD Z1
+296) Sony CM-DX 2000
+297) Sony CM-DX 1000
+1) OnePlus 3
+2) OnePlus X
+3) OnePlus 2
+4) OnePlus One
+1) Motorola Moto G Turbo Edition
+2) Motorola Droid Turbo 2
+3) Motorola Droid Maxx 2
+4) Motorola Moto 360 Sport (1st gen)
+5) Motorola Moto 360 42mm (2nd gen)
+6) Motorola Moto 360 46mm (2nd gen)
+7) Motorola Moto 360 (1st gen)
+8) Motorola Moto X Force
+9) Motorola Moto X Play Dual SIM
+10) Motorola Moto G Dual SIM (3rd gen)
+11) Motorola Moto X Play
+12) Motorola Moto G (3rd gen)
+13) Motorola Moto E Dual SIM (2nd gen)
+14) Motorola Moto G 4G (2nd gen)
+15) Motorola Moto G 4G Dual SIM (2nd gen)
+16) Motorola Moto E (2nd gen)
+17) Motorola Luge
+18) Motorola Moto Maxx
+19) Motorola DROID Turbo
+20) Motorola Moto X (2nd Gen)
+21) Motorola Moto G Dual SIM (2nd gen)
+22) Motorola Moto G (2nd gen)
+23) Motorola Nexus 6
+24) Motorola Moto E
+25) Motorola Moto G 4G
+26) Motorola Moto E Dual SIM
+27) Motorola Moto G Dual SIM
+28) Motorola Moto G
+29) Motorola DROID Ultra
+30) Motorola DROID Maxx
+31) Motorola DROID Mini
+32) Motorola Moto X
+33) Motorola RAZR D3 XT919
+34) Motorola RAZR D1
+35) Motorola RAZR V XT885
+36) Motorola MotoGO TV EX440
+37) Motorola Motosmart Me XT303
+38) Motorola Electrify M XT905
+39) Motorola RAZR i XT890
+40) Motorola RAZR M XT905
+41) Motorola DROID RAZR M
+42) Motorola DROID RAZR MAXX HD
+43) Motorola DROID RAZR HD
+44) Motorola RAZR HD XT925
+45) Motorola ATRIX TV XT687
+46) Motorola XT319
+47) Motorola DEFY XT XT556
+48) Motorola Electrify 2 XT881
+49) Motorola Photon Q 4G LTE XT897
+50) Motorola Defy Pro XT560
+51) Motorola ATRIX HD MB886
+52) Motorola RAZR V XT889
+53) Motorola Motoluxe MT680
+54) Motorola Motoluxe XT389
+55) Motorola Defy Mini XT321
+56) Motorola XT760
+57) Motorola ATRIX TV XT682
+58) Motorola MOTOKEY 3-CHIP EX117
+59) Motorola RAZR V MT887
+60) Motorola MOTOSMART MIX XT550
+61) Motorola MotoGO EX430
+62) Motorola Motosmart Flip XT611
+63) Motorola XT390
+64) Motorola RAZR MAXX
+65) Motorola DEFY XT535
+66) Motorola GLEAM+ WX308
+67) Motorola DROID BIONIC XT865
+68) Motorola XOOM 2 Media Edition 3G MZ608
+69) Motorola XOOM 2 3G MZ616
+70) Motorola DROID 4 XT894
+71) Motorola DROID RAZR MAXX
+72) Motorola Motoluxe
+73) Motorola WX306
+74) Motorola Fire
+75) Motorola MT917
+76) Motorola XT928
+77) Motorola Defy Mini XT320
+78) Motorola DROID XYBOARD 8.2 MZ609 
+79) Motorola DROID XYBOARD 10.1 MZ617
+80) Motorola XT532
+81) Motorola MILESTONE 3 XT860
+82) Motorola MOTO XT615
+83) Motorola XOOM Media Edition MZ505
+84) Motorola XOOM 2 Media Edition MZ607
+85) Motorola XOOM 2 MZ615
+86) Motorola Admiral XT603
+87) Motorola RAZR XT910
+88) Motorola ME632
+89) Motorola SPICE Key XT317
+90) Motorola ATRIX 2 MB865
+91) Motorola FIRE XT
+92) Motorola EX226
+93) Motorola Motokey Social
+94) Motorola PRO+
+95) Motorola EX212
+96) Motorola MOTOKEY Mini EX109
+97) Motorola EX119
+98) Motorola DROID RAZR XT912
+99) Motorola DEFY+
+100) Motorola EX232
+101) Motorola MOTOKEY Mini EX108
+102) Motorola MOTOKEY XT EX118
+103) Motorola WX294
+104) Motorola SPICE Key
+105) Motorola FIRE XT311
+106) Motorola DROID 3
+107) Motorola Milestone XT883
+108) Motorola MOTO XT316
+109) Motorola MOTO MT870
+110) Motorola Triumph
+111) Motorola Photon 4G MB855
+112) Motorola MOTO MT620
+113) Motorola MOTO XT882
+114) Motorola WILDER
+115) Motorola Droid Bionic Targa
+116) Motorola DROID X2
+117) Motorola XPRT MB612
+118) Motorola EX122
+119) Motorola MOTO XT702
+120) Motorola MOTO ME525
+121) Motorola MILESTONE 2 ME722
+122) Motorola GLEAM
+123) Motorola XOOM MZ601
+124) Motorola XOOM MZ604
+125) Motorola XOOM MZ600
+126) Motorola PRO
+127) Motorola DROID X ME811
+128) Motorola DROID BIONIC XT875
+129) Motorola ATRIX
+130) Motorola ATRIX 4G
+131) Motorola EX128
+132) Motorola DROID 2 Global
+133) Motorola XT301
+134) Motorola A1260
+135) Motorola MT810lx
+136) Motorola EX201
+137) Motorola CITRUS WX445
+138) Motorola DROID PRO XT610
+139) Motorola SPICE XT300
+140) Motorola FLIPSIDE MB508
+141) Motorola BRAVO MB520
+142) Motorola MOTO MT716
+143) Motorola CUPE
+144) Motorola EX300
+145) Motorola Quench XT5 XT502
+146) Motorola XT810
+147) Motorola DEFY
+148) Motorola MILESTONE 2
+149) Motorola EX210
+150) Motorola XT806
+151) Motorola DROID 2
+152) Motorola A1680
+153) Motorola DROID X
+154) Motorola Grasp WX404
+155) Motorola Cliq 2
+156) Motorola Rambler
+157) Motorola EX115
+158) Motorola EX112
+159) Motorola MOTOTV EX245
+160) Motorola CHARM
+161) Motorola ES400
+162) Motorola MILESTONE XT720
+163) Motorola Quench XT3 XT502
+164) Motorola WX295
+165) Motorola WX290
+166) Motorola WX265
+167) Motorola WX260
+168) Motorola WX181
+169) Motorola WX161
+170) Motorola FlipOut
+171) Motorola QUENCH
+172) Motorola Droid XTreme
+173) Motorola XT720 MOTOROI
+174) Motorola BACKFLIP
+175) Motorola XT800 ZHISHANG
+176) Motorola MT710 ZHILING
+177) Motorola XT701
+178) Motorola WX395
+179) Motorola WX390
+180) Motorola WX288
+181) Motorola WX280
+182) Motorola MILESTONE
+183) Motorola WX180
+184) Motorola WX160
+185) Motorola A1890
+186) Motorola Motocubo A45
+187) Motorola E11
+188) Motorola DEXT MB220
+189) Motorola A3000
+190) Motorola A1210
+191) Motorola ROKR ZN50
+192) Motorola Karma QA1
+193) Motorola L800t
+194) Motorola COCKTAIL VE70
+195) Motorola PEBL VU20
+196) Motorola W7 Active Edition
+197) Motorola ROKR W6
+198) Motorola MOTOACTV W450
+199) Motorola MC55
+200) Motorola ZN300
+201) Motorola W233 Renew
+202) Motorola Tundra VA76r
+203) Motorola A3100
+204) Motorola VE66
+205) Motorola EM35
+206) Motorola Aura
+207) Motorola RAZR2 V9x
+208) Motorola Q 11
+209) Motorola VE538
+210) Motorola W231
+211) Motorola ZN200
+212) Motorola W396
+213) Motorola EM30
+214) Motorola EM28
+215) Motorola EM25
+216) Motorola VE75
+217) Motorola W388
+218) Motorola W177
+219) Motorola A810
+220) Motorola A1800
+221) Motorola A1600
+222) Motorola ZN5
+223) Motorola ROKR W5
+224) Motorola Z9
+225) Motorola V1100
+226) Motorola Z6c
+227) Motorola Z6w
+228) Motorola W181
+229) Motorola W161
+230) Motorola W270
+231) Motorola W230
+232) Motorola W490
+233) Motorola W377
+234) Motorola W213
+235) Motorola W180
+236) Motorola W160
+237) Motorola U9
+238) Motorola ROKR E8
+239) Motorola RIZR Z10
+240) Motorola PEBL U3
+241) Motorola C123
+242) Motorola W209
+243) Motorola RAZR2 V8
+244) Motorola RAZR2 V9
+245) Motorola W360
+246) Motorola W218
+247) Motorola W380
+248) Motorola W395
+249) Motorola W215
+250) Motorola W205
+251) Motorola W510
+252) Motorola Q 9h
+253) Motorola SLVR L9
+254) Motorola KRZR K3
+255) Motorola RIZR Z8
+256) Motorola ROKR Z6
+257) Motorola ROKR E6
+258) Motorola MOTOFONE F3
+259) Motorola C117
+260) Motorola V361
+261) Motorola SLVR L7e
+262) Motorola RAZR maxx V6
+263) Motorola RAZR V3xx
+264) Motorola RIZR Z3
+265) Motorola KRZR K1
+266) Motorola V191
+267) Motorola W208
+268) Motorola W375
+269) Motorola W220
+270) Motorola V195
+271) Motorola A1200
+272) Motorola ROKR E2
+273) Motorola RAZR V3i
+274) Motorola E1070
+275) Motorola C390
+276) Motorola E770
+277) Motorola C261
+278) Motorola C257
+279) Motorola C168
+280) Motorola C139
+281) Motorola C118
+282) Motorola C113a
+283) Motorola C113
+284) Motorola ROKR E1
+285) Motorola A732
+286) Motorola A728
+287) Motorola A910
+288) Motorola Q8
+289) Motorola E895
+290) Motorola C116
+291) Motorola V226
+292) Motorola V230
+293) Motorola E680i
+294) Motorola V1050
+295) Motorola E378i
+296) Motorola V186
+297) Motorola V3x
+298) Motorola V557
+299) Motorola L6
+300) Motorola L2
+301) Motorola V176
+302) Motorola V235
+303) Motorola PEBL U6
+304) Motorola V360
+305) Motorola V560
+306) Motorola E1120
+307) Motorola E1060
+308) Motorola A1010
+309) Motorola SLVR L7
+310) Motorola V635
+311) Motorola V188
+312) Motorola V171
+313) Motorola V547
+314) Motorola C289
+315) Motorola E375
+316) Motorola A668
+317) Motorola V980
+318) Motorola C980
+319) Motorola V535
+320) Motorola C155
+321) Motorola C115
+322) Motorola V620
+323) Motorola V975
+324) Motorola A780
+325) Motorola V555
+326) Motorola RAZR V3
+327) Motorola V872
+328) Motorola V501
+329) Motorola C975
+330) Motorola V291
+331) Motorola A840
+332) Motorola C650
+333) Motorola E398
+334) Motorola E680
+335) Motorola MPx100
+336) Motorola MPx
+337) Motorola MPx220
+338) Motorola A768i
+339) Motorola C205
+340) Motorola A630
+341) Motorola C380/C385
+342) Motorola V1000
+343) Motorola E1000
+344) Motorola A1000
+345) Motorola V400p
+346) Motorola V220
+347) Motorola V180
+348) Motorola V303
+349) Motorola V80
+350) Motorola V878
+351) Motorola A925
+352) Motorola C250
+353) Motorola V290
+354) Motorola V295
+355) Motorola V525
+356) Motorola V150
+357) Motorola C550
+358) Motorola C336
+359) Motorola C450
+360) Motorola V750
+361) Motorola E380
+362) Motorola T725
+363) Motorola A835
+364) Motorola A830
+365) Motorola A920
+366) Motorola V690
+367) Motorola MPx200
+368) Motorola C200
+369) Motorola E365
+370) Motorola V300
+371) Motorola V500
+372) Motorola v8088
+373) Motorola C300
+374) Motorola T190
+375) Motorola V66i
+376) Motorola T720i
+377) Motorola A388c
+378) Motorola E390
+379) Motorola C230
+380) Motorola A760
+381) Motorola V600
+382) Motorola C350
+383) Motorola C333
+384) Motorola C332
+385) Motorola C331
+386) Motorola T720
+387) Motorola E360
+388) Motorola V60i
+389) Motorola V70
+390) Motorola Accompli 388
+391) Motorola Accompli 008
+392) Motorola Timeport 260
+393) Motorola V60
+394) Motorola Talkabout T192
+395) Motorola Talkabout T191
+396) Motorola Timeport 250
+397) Motorola V66
+398) Motorola Timeport 280
+399) Motorola Accompli 009
+400) Motorola V.box(V100)
+401) Motorola V50
+402) Motorola T180
+403) Motorola V2288
+404) Motorola V3690
+405) Motorola A6188
+406) Motorola d520
+407) Motorola Talkabout T2288
+408) Motorola Timeport P7389
+409) Motorola Timeport L7089
+410) Motorola V3688
+411) Motorola SlimLite
+412) Motorola StarTAC Rainbow
+413) Motorola StarTAC 75
+414) Motorola StarTAC 75+
+415) Motorola StarTAC 85
+416) Motorola StarTAC 130
+417) Motorola cd930
+418) Motorola cd920
+419) Motorola M3188
+420) Motorola M3288
+421) Motorola M3588
+422) Motorola M3688
+423) Motorola M3788
+424) Motorola M3888
+1) Huawei P9 Lite
+2) Huawei P9
+3) Huawei Honor Holly 2 Plus
+4) Huawei MediaPad M2 10.0
+5) Huawei Y560
+6) Huawei Enjoy 5s
+7) Huawei P9max
+8) Huawei G7 Plus
+9) Huawei Watch
+10) Huawei Enjoy 5
+11) Huawei Honor 5X
+12) Huawei Nexus 6P
+13) Huawei Mate S
+14) Huawei G8
+15) Huawei Honor 7i
+16) Huawei Y6
+17) Huawei MediaPad M2
+18) Huawei MediaPad T1 10
+19) Huawei MediaPad T1 7.0
+20) Huawei P8lite ALE-L04
+21) Huawei Mate 8
+22) Huawei Honor Bee
+23) Huawei Y625
+24) Huawei Honor 4C
+25) Huawei P8lite
+26) Huawei P8max
+27) Huawei SnapTo
+28) Huawei Y360
+29) Huawei Y635
+30) Huawei MediaPad X2
+31) Huawei Ascend Y540
+32) Huawei P8
+33) Huawei Ascend G628
+34) Huawei Ascend Y520
+35) Huawei Ascend Y221
+36) Huawei Ascend GX1
+37) Huawei U8687 Cronos
+38) Huawei Ascend Mate7 Monarch
+39) Huawei Honor 6 Plus
+40) Huawei Honor 4X
+41) Huawei Honor Holly
+42) Huawei MediaPad T1 8.0
+43) Huawei Honor 4 Play
+44) Huawei Ascend G535
+45) Huawei Ascend G620s
+46) Huawei Ascend Y550
+47) Huawei Ascend G7
+48) Huawei Ascend P7 Sapphire Edition
+49) Huawei Honor 3C Play
+50) Huawei Y300II
+51) Huawei Ascend Mate7
+52) Huawei Ascend G630
+53) Huawei Ascend Y330
+54) Huawei Honor 6
+55) Huawei Mulan
+56) Huawei Honor 3X Pro
+57) Huawei Honor 3C 4G
+58) Huawei Ascend Plus
+59) Huawei Ascend P7 mini
+60) Huawei Ascend G730
+61) Huawei Ascend Y600
+62) Huawei MediaPad 10 Link+
+63) Huawei Ascend G6 4G
+64) Huawei MediaPad M1
+65) Huawei Ascend G6
+66) Huawei MediaPad X1
+67) Huawei Ascend P7
+68) Huawei Ascend Y530
+69) Huawei MediaPad 7 Youth2
+70) Huawei Ascend P6 S
+71) Huawei Ascend Mate2 4G
+72) Huawei Ascend Y320
+73) Huawei Ascend Y220
+74) Huawei Ascend Y511
+75) Huawei Honor 3C
+76) Huawei Honor 3X G750
+77) Huawei G6005
+78) Huawei Ascend G740
+79) Huawei G3621L
+80) Huawei G6153
+81) Huawei G610s
+82) Huawei MediaPad 7 Youth
+83) Huawei Honor 3
+84) Huawei Ascend G350
+85) Huawei Ascend G700
+86) Huawei Ascend G525
+87) Huawei MediaPad 7 Vogue
+88) Huawei MediaPad 10 Link
+89) Huawei Ascend W2
+90) Huawei Ascend P6
+91) Huawei Ascend G312
+92) Huawei Ascend Y300
+93) Huawei Ascend G330D U8825D
+94) Huawei Premia 4G M931
+95) Huawei Ascend Y210D
+96) Huawei Ascend G526
+97) Huawei Ascend P2
+98) Huawei Ascend G615
+99) Huawei Ascend G510
+100) Huawei Ascend Mate
+101) Huawei Ascend D2
+102) Huawei Ascend G500
+103) Huawei Ascend W3
+104) Huawei Ascend Y201 Pro
+105) Huawei G6800
+106) Huawei G5520
+107) Huawei Honor 2
+108) Huawei Ascend Y
+109) Huawei Summit
+110) Huawei Ascend W1
+111) Huawei Ascend P1 LTE
+112) Huawei Fusion 2 U8665
+113) Huawei Ascend P1 XL U9200E
+114) Huawei Ascend D1 XL U9500E
+115) Huawei Ascend G330
+116) Huawei Ascend G600
+117) Huawei MediaPad 7 Lite
+118) Huawei G6310
+119) Huawei G5000
+120) Huawei Ascend Y100
+121) Huawei Ascend Y200
+122) Huawei Activa 4G
+123) Huawei Ascend Q M5660
+124) Huawei G6609
+125) Huawei Fusion U8652
+126) Huawei T8300
+127) Huawei D51 Discovery
+128) Huawei Ascend G300
+129) Huawei MediaPad 10 FHD
+130) Huawei Ascend D1
+131) Huawei Ascend D quad XL
+132) Huawei Ascend D quad
+133) Huawei U5510
+134) Huawei Ascend P1
+135) Huawei Ascend P1s
+136) Huawei M886 Mercury
+137) Huawei G7300
+138) Huawei G7005
+139) Huawei Pillar
+140) Huawei MediaPad S7-301w
+141) Huawei MediaPad
+142) Huawei U8520 Duplex
+143) Huawei U8350 Boulder
+144) Huawei U8800 Pro
+145) Huawei G6620
+146) Huawei U8650 Sonic
+147) Huawei U8180 IDEOS X1
+148) Huawei U8860 Honor
+149) Huawei G7206
+150) Huawei G5500
+151) Huawei Impulse 4G
+152) Huawei U8850 Vision
+153) Huawei C3200
+154) Huawei Ascend II
+155) Huawei G6608
+156) Huawei U3100
+157) Huawei G7010
+158) Huawei U5900s
+159) Huawei G6150
+160) Huawei IDEOS S7 Slim CDMA
+161) Huawei U7520
+162) Huawei U8510 IDEOS X3
+163) Huawei IDEOS S7 Slim
+164) Huawei U1270
+165) Huawei IDEOS S7
+166) Huawei U8800 IDEOS X5
+167) Huawei U9000 IDEOS X6
+168) Huawei U8150 IDEOS
+169) Huawei U8500 IDEOS X2
+170) Huawei G7002
+171) Huawei U9130 Compass
+172) Huawei U8230
+173) Huawei U8300
+174) Huawei U8110
+175) Huawei U8100
+176) Huawei U8220
+177) Huawei T552
+178) Huawei U9150
+179) Huawei U1250
+180) Huawei U7510
+181) Huawei G6600 Passport
+182) Huawei U7310
+183) Huawei U121
+184) Huawei U120
+185) Huawei U3300
+186) Huawei U1310
+187) Huawei U1100
+188) Huawei U1000
+189) Huawei T156
+190) Huawei T158
+191) Huawei T208
+192) Huawei T261L
+193) Huawei T211
+194) Huawei T161L
+195) Huawei T330
+196) Huawei T201
+1) HTC Desire 825
+2) HTC Desire 630
+3) HTC Desire 530
+4) HTC One M10
+5) HTC One X9
+6) HTC One M9s
+7) HTC Desire 728 dual sim
+8) HTC Desire 828 dual sim
+9) HTC One E9s dual sim
+10) HTC Butterfly 3
+11) HTC One M9+ Supreme Camera
+12) HTC One A9
+13) HTC Desire 626 (USA)
+14) HTC Desire 520
+15) HTC Desire 526
+16) HTC Desire 626s
+17) HTC One E9
+18) HTC One ME
+19) HTC Desire 820G+ dual sim
+20) HTC Desire 326G dual sim
+21) HTC Desire 626G+
+22) HTC One M8s
+23) HTC Desire 820s dual sim
+24) HTC One E9+
+25) HTC One (M8i)
+26) HTC One M9+
+27) HTC Desire 626
+28) HTC Desire 526G+ dual sim 
+29) HTC Desire 826 dual sim
+30) HTC Desire 320
+31) HTC One M9
+32) HTC A12
+33) HTC Desire 820q dual sim
+34) HTC Desire 620G dual sim
+35) HTC Desire 620 dual sim
+36) HTC Desire 816G dual sim
+37) HTC Desire 612
+38) HTC Desire Eye
+39) HTC One (M8 Eye)
+40) HTC Desire 820 dual sim
+41) HTC Desire 820
+42) HTC One (E8) CDMA
+43) HTC Desire 510
+44) HTC One (M8) for Windows
+45) HTC One (M8) for Windows (CDMA)
+46) HTC Butterfly 2
+47) HTC Desire 700
+48) HTC One Remix
+49) HTC Desire 816 dual sim
+50) HTC One (M8) dual sim
+51) HTC Desire 516 dual sim
+52) HTC One (E8)
+53) HTC One M8 Prime
+54) HTC Desire 310 dual sim
+55) HTC One mini 2
+56) HTC Desire 210 dual sim
+57) HTC Desire 616 dual sim
+58) HTC One (M8) CDMA
+59) HTC Desire 610
+60) HTC Desire P
+61) HTC Desire Q
+62) HTC Desire L
+63) HTC One (M8)
+64) HTC Desire 816
+65) HTC Desire 310
+66) HTC Desire 501 dual sim
+67) HTC Desire 501
+68) HTC Desire 601 dual sim
+69) HTC Desire 700 dual sim
+70) HTC Desire XC
+71) HTC Nexus 9
+72) HTC One Max
+73) HTC Desire 601
+74) HTC Desire 300
+75) HTC Desire 500
+76) HTC 8XT
+77) HTC Butterfly S
+78) HTC Desire 200
+79) HTC Tiara
+80) HTC One mini
+81) HTC One Dual Sim
+82) HTC Desire 600 dual sim
+83) HTC First
+84) HTC One
+85) HTC Desire U
+86) HTC Butterfly
+87) HTC DROID DNA
+88) HTC One SV CDMA
+89) HTC One SV
+90) HTC Windows Phone 8X CDMA
+91) HTC Desire SV
+92) HTC Evo 4G+
+93) HTC One VX
+94) HTC Windows Phone 8S
+95) HTC J
+96) HTC One ST
+97) HTC One SC
+98) HTC Desire 400 dual sim
+99) HTC One XC
+100) HTC One X+
+101) HTC Windows Phone 8X
+102) HTC Desire X
+103) HTC One S C2
+104) HTC Desire VT
+105) HTC Desire VC
+106) HTC Desire V
+107) HTC Desire C
+108) HTC DROID Incredible 4G LTE
+109) HTC Evo 4G LTE
+110) HTC One X AT&T
+111) HTC One V
+112) HTC One S
+113) HTC One XL
+114) HTC Velocity 4G Vodafone
+115) HTC Primo
+116) HTC Velocity 4G
+117) HTC Titan II
+118) HTC Zeta
+119) HTC Ville
+120) HTC One X
+121) HTC Vivid
+122) HTC Hero S
+123) HTC EVO Design 4G
+124) HTC Rhyme CDMA
+125) HTC Sensation XE
+126) HTC Sensation XL
+127) HTC Jetstream
+128) HTC Rhyme
+129) HTC Radar
+130) HTC Explorer
+131) HTC Rezound
+132) HTC Amaze 4G
+133) HTC Panache
+134) HTC Titan
+135) HTC Status
+136) HTC Trophy
+137) HTC Raider 4G
+138) HTC Lead
+139) HTC Flyer Wi-Fi
+140) HTC Glacier
+141) HTC Rider
+142) HTC DROID Incredible 2
+143) HTC Sensation 4G
+144) HTC EVO 3D
+145) HTC EVO View 4G
+146) HTC EVO 3D CDMA
+147) HTC HD7S
+148) HTC Prime
+149) HTC Ignite
+150) HTC Sensation
+151) HTC Flyer
+152) HTC Incredible S
+153) HTC ChaCha
+154) HTC Salsa
+155) HTC Wildfire S
+156) HTC Desire S
+157) HTC Desire HD2
+158) HTC Merge
+159) HTC Freestyle
+160) HTC Inspire 4G
+161) HTC ThunderBolt 4G
+162) HTC EVO Shift 4G
+163) HTC Gratia
+164) HTC Wildfire CDMA
+165) HTC 7 Pro
+166) HTC 7 Surround
+167) HTC Arrive
+168) HTC 7 Mozart
+169) HTC Touch Diamond CDMA
+170) HTC Touch Pro CDMA
+171) HTC Hero CDMA
+172) HTC Touch Pro2 CDMA
+173) HTC Schubert
+174) HTC Desire HD
+175) HTC Paradise
+176) HTC DROID ERIS
+177) HTC Evo 4G
+178) HTC Desire Z
+179) HTC Aria
+180) HTC HD7
+181) HTC Wildfire
+182) HTC Droid Incredible
+183) HTC Touch HD T8285
+184) HTC HD mini
+185) HTC Legend
+186) HTC 7 Trophy
+187) HTC Touch Diamond2 CDMA
+188) HTC Smart
+189) HTC Desire
+190) HTC Google Nexus One
+191) HTC Tilt2
+192) HTC HD2
+193) HTC Pure
+194) HTC Tattoo
+195) HTC Touch2
+196) HTC Ozone
+197) HTC Hero
+198) HTC Snap
+199) HTC Magic
+200) HTC Touch Pro2
+201) HTC Touch Diamond2
+202) HTC Dream
+203) HTC Touch Cruise 09
+204) HTC MAX 4G
+205) HTC Touch Viva
+206) HTC Touch 3G
+207) HTC Touch HD
+208) HTC S740
+209) HTC Touch Pro
+210) HTC Touch Diamond
+211) HTC Advantage X7510
+212) HTC P3470
+213) HTC Touch Cruise
+214) HTC P6500
+215) HTC S730
+216) HTC Touch Dual
+217) HTC P3600i
+218) HTC S630
+219) HTC TyTN II
+220) HTC Touch
+221) HTC P6300
+222) HTC Shift
+223) HTC S710
+224) HTC Advantage X7500
+225) HTC P3350
+226) HTC P3400
+227) HTC P4350
+228) HTC S620
+229) HTC S310
+230) HTC P3600
+231) HTC P3300
+232) HTC TyTN
+233) HTC MTeoR
